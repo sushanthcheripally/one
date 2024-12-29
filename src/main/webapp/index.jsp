@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Engineer Portfolio</title>
+    <title>SQL DEVELOPER Portfolio</title>
     <style>
         /* General Styles */
         body {
@@ -166,8 +166,8 @@
 </head>
 <body>
     <header>
-        <h1>SUSH - DevOps Engineer</h1>
-        <p>Building Automation & Scalable Solutions for Modern Applications</p>
+        <h1>SUSHANTH - SQL DEVELOPERr</h1>
+        <p>He Is Leading His Life In King Size</p>
         <nav>
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
@@ -178,34 +178,39 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Sushanth, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm Sushanth, a Sql Developer passionate about solo travelling. He is doing job to travel around INDIA.</p>
     </section>
 
     <section id="skills" class="skills">
         <h2>Skills</h2>
         <ul>
-            <li>CI/CD - Jenkins, GitHub Actions</li>
-            <li>Containerization - Docker</li>
-            <li>Orchestration - Kubernetes</li>
-            <li>Infrastructure as Code - Terraform</li>
-            <li>Cloud Platforms - AWS, Azure</li>
-            <li>Monitoring - Prometheus, Grafana</li>
+            <li>SQL</li>
+            <li>Database management</li>
+            <li>Stored procedures</li>
+            <li>Optimizing complex queries</li>
+            <li>Cloud Platforms - AWS</li>
+            <li>GIT</li>
+            <li>GITHUB</li>
+            <li>LINUX</li>
+            <li>JENKINS</li>
+            <li>TOMCAT</li>
+            <li>NEXUS</li>
         </ul>
     </section>
 
     <section id="projects" class="projects">
         <h2>Projects</h2>
         <div class="project">
-            <h3>Bank Application Deployment</h3>
-            <p>Deployed a three-tier banking app using Kubernetes, Docker, and MySQL, ensuring high availability and security.</p>
+            <h3>Kerala</h3>
+            <p>Unique experience going kerala alone exploring thing in a different way.</p>
         </div>
         <div class="project">
-            <h3>Jenkins CI/CD Pipeline</h3>
-            <p>Created a robust CI/CD pipeline integrating SonarQube, Trivy, and Docker for secure and quality-focused deployments.</p>
+            <h3>Himachal pradesh</h3>
+            <p>It is total god decided destiny.</p>
         </div>
         <div class="project">
-            <h3>AWS Infrastructure Automation</h3>
-            <p>Automated EC2 instance provisioning and application deployment using Terraform and CFT</p>
+            <h3>Vizag</h3>
+            <p>Travelling with unknown people and became friend till now.</p>
         </div>
     </section>
 
@@ -220,7 +225,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Mustafa | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2024 Sushanth | Sql developer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
