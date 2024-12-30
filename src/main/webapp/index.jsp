@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>SUSHANTH - SQL DEVELOPERr</h1>
+        <h1>SUSH - SQL DEVELOPERr</h1>
         <p>He Is Leading His Life In King Size</p>
         <nav>
             <a href="#about">About</a>
