@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>SUSHANTH - SOLO TRAVELLER</h1>
+        <h1>SUSHANTH - FREE SOLO</h1>
         <p>He Is Leading His Life In King Size</p>
         <nav>
             <a href="#about">About</a>
