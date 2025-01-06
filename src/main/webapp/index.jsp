@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SQL DEVELOPER Portfolio</title>
+    <title>SOLO TRAVELLER Portfolio</title>
     <style>
         /* General Styles */
         body {
@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>NANI - FREE SOLO</h1>
+        <h1>SUSHANTH - SOLO TRAVELLER</h1>
         <p>He Is Leading His Life In King Size</p>
         <nav>
             <a href="#about">About</a>
