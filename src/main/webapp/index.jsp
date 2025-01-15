@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Sushanth, a Sql Developer passionate about solo travelling. He is doing job to travel around INDIA.</p>
+        <p>Hello! I'm Sushanth, Working as software developer passionate about solo travelling. I'm doing job to travel.</p>
     </section>
 
     <section id="skills" class="skills">
@@ -202,15 +202,15 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>Kerala</h3>
-            <p>Unique experience going kerala alone exploring thing in a different way.</p>
+            <p>Idukki is my star place in kerala.</p>
         </div>
         <div class="project">
             <h3>Himachal pradesh</h3>
-            <p>It is total god decided destiny.</p>
+            <p>Kalgha is my start place in himachal pradesh</p>
         </div>
         <div class="project">
             <h3>Vizag</h3>
-            <p>Travelling with unknown people and became friend till now.</p>
+            <p>kandakarla avu is my start place in vizag</p>
         </div>
     </section>
 
@@ -225,7 +225,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Sushanth | Sql developer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2024 Sushanth | Software Developer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
