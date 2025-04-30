@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>SUSHANTH - SOLO TRAVELLER</h1>
+        <h1>SUSHANTH - TRAVELLER</h1>
         <p>He Is Leading His Life In King Size</p>
         <nav>
             <a href="#about">About</a>
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Sushanth, Working as software developer passionate about solo travelling. I'm doing job to travel.</p>
+        <p>Hello! I'm Sushanth, Working as software developer passionate about travelling. I'm earning to travel.</p>
     </section>
 
     <section id="skills" class="skills">
@@ -202,7 +202,7 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>Kerala</h3>
-            <p>Idukki is my star place in kerala.</p>
+            <p>Idukki is my start place in kerala.</p>
         </div>
         <div class="project">
             <h3>Himachal pradesh</h3>
